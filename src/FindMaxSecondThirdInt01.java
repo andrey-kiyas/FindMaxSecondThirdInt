@@ -1,3 +1,7 @@
+/**
+ * Найти первое, второе и третье по величине число массива
+ */
+
 public class FindMaxSecondThirdInt01 {
     public static void main(String[] args) {
 

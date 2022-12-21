@@ -2,6 +2,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedList;
 
+/**
+ * Найти первое, второе и третье по величине число массива
+ */
+
 public class FindMaxSecondThirdInt02 {
     public static void main(String[] args) {
         Integer[] mas = {12, 5, 8, 6, -12, 12, 10, 7, 6, 11, 3, 0, 10};
