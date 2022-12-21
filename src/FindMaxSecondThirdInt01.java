@@ -4,8 +4,7 @@
 
 public class FindMaxSecondThirdInt01 {
     public static void main(String[] args) {
-
-        int[] mas = {12, 5, 8, 6, -12, 12, 10, 7, 6, 11, 3, 0, 10};
+        int[] mas = {12, 5, 11, 8, 10, 6, -12, 12, 10, 7, 6, 11, 3, 0, 10};
         int max = 0, preMax = 0, prePreMax = 0;
 
         for (int i = 0; i < mas.length; i++) {
